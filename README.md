@@ -9,7 +9,6 @@ The project reports uncertainty, negative results and numerical failures explici
 
 - [Final research report](FINAL_RESEARCH_REPORT.md)
 - [One-page project summary](PROJECT_SUMMARY.md)
-- [Full technical report and tables](outputs/RESEARCH_REPORT_V2.md)
 - [Final independent review](docs/FINAL_REVIEW_NOTES.md)
 - [EGARCH instability appendix](docs/EGARCH_REVIEW.md)
 
