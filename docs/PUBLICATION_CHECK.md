@@ -1,4 +1,4 @@
-# Publication bundle check — 2026-11-01
+# Publication bundle check
 
 The curated bundle was extracted to a fresh directory outside the workspace, using
 the independent dependency-isolated Python environment. It initially contains no
