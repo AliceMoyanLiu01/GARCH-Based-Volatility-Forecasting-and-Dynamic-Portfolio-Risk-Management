@@ -40,4 +40,4 @@ and validate EGARCH using likelihood-based numerical checks before investment an
 reconciled; 204 scientific CSV outputs reproduced. No guard or parameter was tuned to
 improve investment performance during the final review.
 
-[Final report](FINAL_RESEARCH_REPORT.md) · [Technical report](outputs/RESEARCH_REPORT_V2.md) · [Reproduce](README.md)
+[Final report](FINAL_RESEARCH_REPORT.md) · [Technical report](RESEARCH_REPORT_V2.md) · [Reproduce](README.md)
