@@ -136,7 +136,7 @@ The V2 report passed **1,317 claim checks across 13 tables** and its numerical
 conclusions; method assumptions were separately reviewed. These checks establish
 internal consistency, not truth of the modeling assumptions.
 
-- [Full methods and results](outputs/RESEARCH_REPORT_V2.md)
+- [Full methods and results](RESEARCH_REPORT_V2.md)
 - [One-page summary](PROJECT_SUMMARY.md)
 - [Review evidence and unresolved issues](docs/FINAL_REVIEW_NOTES.md)
 - [Reproduction instructions](README.md)
