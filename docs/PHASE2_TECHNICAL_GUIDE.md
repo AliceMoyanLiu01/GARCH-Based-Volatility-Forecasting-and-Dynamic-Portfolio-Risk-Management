@@ -119,7 +119,7 @@ past-only percentile allocation. Daily adjusted prices and volume cover
 
 Read [the generated research report](../FINAL_RESEARCH_REPORT.md) for the actual
 findings, [performance CSV](../summary.csv) for the complete metric table,
-and [project progress](../PROJECT_PROGRESS.md) for the audit and validation record.
+and project progress for the audit and validation record.
 No synthetic observations are used in empirical results. Artificial fixtures exist
 only in automated tests.
 
