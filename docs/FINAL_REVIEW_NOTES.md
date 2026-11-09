@@ -1,4 +1,4 @@
-# Final research-quality review — 2026-11-01
+# Final research-quality review
 
 ## Independent execution
 
