@@ -1,4 +1,4 @@
-# Project summary — GARCH forecasting and portfolio risk
+# Project summary: GARCH forecasting and portfolio risk
 
 **Motivation.** Can a more accurate volatility forecast improve portfolio risk
 management after trading costs? This project separates statistical forecast quality
