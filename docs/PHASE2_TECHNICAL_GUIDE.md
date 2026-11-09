@@ -6,8 +6,8 @@ Commands assume the repository root. The current entry point is [README](../READ
 
 ## Phase 2: forecasting significance versus economic value
 
-The upgraded study is complete in [RESEARCH_REPORT_V2.md](../outputs/RESEARCH_REPORT_V2.md).
-The [research audit](../RESEARCH_AUDIT.md) records baseline verification, horizon alignment,
+The upgraded study is complete in [RESEARCH_REPORT_V2.md](../RESEARCH_REPORT_V2.md).
+The research audit records baseline verification, horizon alignment,
 and methodological choices. The original code, data, and results remain unchanged in
 `archive/phase1/`; a full baseline rerun is in `outputs/baseline_reproduced/`.
 
@@ -106,7 +106,7 @@ not untouched. There is no genuinely unseen holdout in this project. Read the re
 for statistical versus economic conclusions and all negative/unstable outcomes.
 
 Every exact output path, including ledgers, model fits, figures, archived files,
-and reproduction files, is listed in [PHASE2_OUTPUTS.md](../outputs/PHASE2_OUTPUTS.md)
+and reproduction files, is listed in PHASE2_OUTPUTS.md
 and `outputs/phase2_artifacts.json`.
 
 ## Original project guide
@@ -117,8 +117,8 @@ performance through dynamic sizing of SPY, QQQ, and IWM. It compares buy-and-hol
 past-only percentile allocation. Daily adjusted prices and volume cover
 2015-01-01–2025-12-31. Each ETF is a separate sleeve, not a combined portfolio.
 
-Read [the generated research report](../outputs/RESEARCH_REPORT.md) for the actual
-findings, [performance CSV](../outputs/summary.csv) for the complete metric table,
+Read [the generated research report](../FINAL_RESEARCH_REPORT.md) for the actual
+findings, [performance CSV](../summary.csv) for the complete metric table,
 and [project progress](../PROJECT_PROGRESS.md) for the audit and validation record.
 No synthetic observations are used in empirical results. Artificial fixtures exist
 only in automated tests.
