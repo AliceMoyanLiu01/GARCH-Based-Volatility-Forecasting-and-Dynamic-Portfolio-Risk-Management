@@ -109,9 +109,6 @@ scenario if reliable rate data is unavailable; it never invents observations.
 | `archive/phase1/` | Deliberately frozen original source, data and results required for baseline/provenance checks |
 | `archive/final_review_reference/` | Original V2 report/metadata and files changed during final review |
 
-The [portable output index](outputs/PHASE2_OUTPUTS.md) lists published research artifacts.
-The [progress record](PROJECT_PROGRESS.md), [research audit](RESEARCH_AUDIT.md) and
-[archived technical guide](docs/PHASE2_TECHNICAL_GUIDE.md) preserve implementation detail.
 
 ## Numerical and research limits
 
